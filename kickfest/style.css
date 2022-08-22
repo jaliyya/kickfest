@@ -1,0 +1,40 @@
+
+.container-login{
+    padding-top: 150px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.navbar{
+    background-color:#f3f2f7;
+} 
+
+.banner { 
+  background-image: url(https://i.ytimg.com/vi/kVL5ynRCitg/maxresdefault.jpg);
+  background-size: cover;
+  padding-top: 20%;
+  padding-bottom: 20%;
+  color: #fff;
+}
+
+p{
+  color: rgb(255, 0, 0);
+}
+
+body{
+  background-color: black;
+}
+
+h2{
+  color: red;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+
+.container-tiket{
+  background-color: black;
+}
+
+.table{
+  background:black;
+}
